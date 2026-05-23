@@ -1,0 +1,9 @@
+Flask==3.0.3
+flask-cors==4.0.1
+requests==2.32.3
+gunicorn==23.0.0
+Flask-Limiter==3.8.0
+Flask-Talisman==1.1.0
+marshmallow==3.21.3
+python-dotenv==1.0.1
+werkzeug==3.0.3
